@@ -7,7 +7,7 @@
     "build": "rm -rf dist && tsc --build tsconfig.json && npx -p typescript tsc dist/*.js --declaration --allowJs --emitDeclarationOnly --outDir dist"
   },
   "author": "Tarek Laun",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "react": ">=15.0.1",
     "react-dom": ">=15.0.1"
