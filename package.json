@@ -1,7 +1,7 @@
 {
-  "name": "react-code-scanner",
+  "name": "@tarek-laun/react-code-scanner",
   "version": "0.0.1",
-  "description": "",
+  "description": "React Code Scanner is a React Component to Scan QR and Barcodes.",
   "main": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc --build tsconfig.json && npx -p typescript tsc dist/*.js --declaration --allowJs --emitDeclarationOnly --outDir dist"
@@ -22,5 +22,17 @@
     "@zxing/library": "^0.20.0",
     "react-webcam": "^7.1.1",
     "typescript": "^5.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarek-Laun/React-Code-Scanner.git"
+  },
+  "keywords": [
+    "React",
+    "TS"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tarek-Laun/React-Code-Scanner/issues"
+  },
+  "homepage": "https://github.com/Tarek-Laun/React-Code-Scanner#readme"
 }
