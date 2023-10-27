@@ -41,7 +41,8 @@ function ReactCodeScanner(props: any) {
   });
 
   return (
-    <Webcam  
+    <Webcam
+    className={props.className}
     audio={false}
     height={height}
     width={width}
