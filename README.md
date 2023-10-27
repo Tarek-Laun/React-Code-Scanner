@@ -5,7 +5,7 @@ React Code Scanner is a React Component to Scan QR and Barcodes.
 ## Installation
 
 ```bash
-npm i react-code-scanner
+npm i @tarek-laun/react-code-scanner
 ```
 
 ## Example
