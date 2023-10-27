@@ -1,6 +1,6 @@
 {
   "name": "@tarek-laun/react-code-scanner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Code Scanner is a React Component to Scan QR and Barcodes.",
   "main": "dist/index.js",
   "scripts": {
